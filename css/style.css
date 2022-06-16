@@ -1,0 +1,50 @@
+.h1color {
+  color: burlywood;
+}
+
+.sectiona {
+  background-color: rgb(0, 90, 43);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.PText {
+  color: rgb(255, 255, 255);
+  max-width: 137px;
+  padding-right: 1050px;
+}
+
+.ulmenu {
+
+  color: white;
+  list-style: none;
+  padding: 0px;
+}
+
+li {
+  display: inline;
+  padding-left: 30px;
+  cursor: pointer
+}
+
+li:hover {
+  color: rgb(30, 30, 30);
+}
+
+.banner {
+  height: 750px;
+  background-image: url('../images/ban.png');
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+h1{
+  font-family: 'Press Start 2P', cursive;
+}
